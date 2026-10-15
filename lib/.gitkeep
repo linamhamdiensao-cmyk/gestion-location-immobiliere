@@ -1,0 +1,4 @@
+# Dossier réservé aux bibliothèques externes (.jar).
+# Vide pour l'instant : le projet ne dépend d'aucune librairie tierce.
+# C'est ici que vous placerez par exemple le driver JDBC (mysql-connector-j.jar)
+# lors de l'intégration de la base de données SQL.

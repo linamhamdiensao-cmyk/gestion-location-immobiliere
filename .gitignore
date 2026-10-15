@@ -1,0 +1,30 @@
+# Sorties de compilation
+bin/
+out/
+*.class
+sources.txt
+
+# Fichiers IDE : .project, .classpath et .settings/ sont fournis volontairement
+# pour permettre l'import direct dans Eclipse (ne pas les ignorer).
+
+# Système
+Thumbs.db
+.DS_Store
+
+# Fichiers locaux exclus de la publication
+.env
+.env.*
+!.env.example
+.venv/
+venv/
+node_modules/
+.next/
+__pycache__/
+.pytest_cache/
+*.py[cod]
+*.class
+bin/
+target/
+*.log
+*.db
+*.sqlite*

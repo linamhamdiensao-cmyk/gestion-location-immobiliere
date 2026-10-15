@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<!-- Dossiers de code source : application et tests -->
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="test"/>
+	<!-- JRE par défaut configuré dans Eclipse (JDK 17 recommandé) -->
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<!-- Bibliothèque JUnit 5 (tests unitaires) -->
+	<classpathentry kind="lib" path="lib/junit-platform-console-standalone-1.10.2.jar"/>
+	<!-- Dossier de sortie des .class -->
+	<classpathentry kind="output" path="bin"/>
+</classpath>
